@@ -17,6 +17,21 @@ function power(mtrx,p){
   return total;
 }
 
+function betterPower(mtrx,p){
+  if(){
+    let
+    return
+  }
+  else if(){
+    let
+    let
+    return
+  }
+  else{
+    return mtrx;
+  }
+}
+
 
 //testing code
 console.log(power(A,10)());
